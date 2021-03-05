@@ -1,0 +1,17 @@
+{
+  "name": "ogawa",
+  "version": "0.0.1",
+  "description": "Dynamic responsiveness in React made easy",
+  "main": "index.js",
+  "repository": "https://github.com/ahlec/ogawa.git",
+  "author": "Alec Deitloff",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  },
+  "prettier": {}
+}
